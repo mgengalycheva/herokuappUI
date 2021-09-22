@@ -1,9 +1,10 @@
+<!--
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
 <suite name="AllTests" verbose="1" >
     <test name="PositiveTests" >
         <classes>
-            <class name="com.herocuapp.theinternet.PositiveTests"/>
+            <class name="com.herocuapp.theinternet.LoginTests"/>
         </classes>
     </test>
 
@@ -13,3 +14,4 @@
         </classes>
     </test>
 </suite>
+-->
